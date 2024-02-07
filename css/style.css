@@ -1,0 +1,92 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.header{
+    background-color: aqua;
+    text-align: center;
+    height: 100px;
+    color:salmon ;
+    font-size: 30px;
+}
+.banner{
+    background-color:greenyellow ;
+    text-align: center;
+    height: 350px;
+    color: darkgoldenrod;
+    font-size: 25px;
+
+}
+.contant_main{
+    display: flex;
+    color: white;
+}
+.contant{
+    background-color: brown;
+    width: 50%;
+    height: 300px;
+    text-align: center;
+}
+.contant_two{
+    background-color: blueviolet;
+    width: 50%;
+    text-align: center;
+    height: 300px;
+}
+.product{
+    display: flex;
+    color:rgb(70, 28, 28);
+}
+.product_one{
+    background-color: cadetblue;
+    width: 25%;
+    height: 200px;
+    text-align: center;
+}
+.product_two{
+    background-color: coral;
+    width: 25%;
+    text-align: center;
+
+}
+.product_three{
+    background-color: olivedrab;
+    width: 25%;
+    text-align: center;
+    color: khaki;
+}
+.product_four{
+    background-color: crimson;
+    width: 25%;
+    text-align: center;
+    color: beige;
+}
+.footer_main{
+    background-color: darkgoldenrod;
+    height: 80px;
+    text-align: center; 
+}
+.footer{
+    color: aliceblue;
+    font-size: 35px;
+    padding-bottom: 20px;
+}
+.sarvice{
+    display: flex;
+    text-align: center;
+    color: yellow;
+}
+.sarvice_one{
+    background-color: darkgray;
+    width: 33.33%;
+    height: 300px;
+
+}
+.sarvice_two{
+    background-color: deeppink;
+    width: 33.33%;
+}
+.sarvice_three{
+    background-color: goldenrod;
+    width: 33.33%;
+}
